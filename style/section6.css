@@ -1,0 +1,10 @@
+    .panel-lottie {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+      }
+  
+  #UsingChart {
+    width: 100%;
+    height: auto;
+  }
